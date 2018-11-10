@@ -15,3 +15,5 @@ We strive to honour the principles above as follows:
 - Proactively find ways for all individuals, regardless of skill level, to contribute to the above.
 - Be honest and mindful about the fact that technology alone is unable to solve the majority of social problems.
 - Partner with other organisations and communities that share our views as stated above.
+
+Activities under the banner of Codebridge are strictly non-partisan.
