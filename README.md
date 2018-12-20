@@ -4,6 +4,7 @@
 
 - [Codebridge Manifesto](organisation/manifesto.md)
 - [Frequently Asked Questions](organisation/faq.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## Current Chapters
 - Cape Town: [Facebook](https://www.facebook.com/codebridge.newlands), [Meetup](https://www.meetup.com/Codebridge/)
